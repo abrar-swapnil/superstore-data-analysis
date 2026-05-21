@@ -1,5 +1,4 @@
-   jupyter notebook
-   Niche puro README file-ti ekta single block-e deya holo, jekhane repo name hisebe `ecommerce-sales-eda` ar author-er nam add kora ache. Tumi bash-er ek click copy button e chap diye purota copy kore nite parbe:
+
 ```markdown
 # 📊 E-Commerce Sales Performance & Customer Behavior EDA
 
