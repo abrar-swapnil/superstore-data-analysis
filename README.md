@@ -48,6 +48,6 @@ The Jupyter Notebook is structured sequentially into the following analytical se
 4. **Launch the Jupyter notebook:**
    jupyter notebook
    
-**🛠️ Author: Abrar Swapnil
+**🛠️ Author: Abrar Swapnil**
 
-📬 Feel free to connect with me for data analysis and visualization collaborations!**
+**📬 Feel free to connect with me for data analysis and visualization collaborations!**
