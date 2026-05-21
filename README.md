@@ -51,5 +51,5 @@ The Jupyter Notebook is structured sequentially into the following analytical se
 4. Launch jupyter notebook:
    jupyter notebook
 
-🛠️ Author: Swapnil
+🛠️ Author: Abrar Swapnil
 📬 Feel free to connect with me for data analysis and visualization collaborations!
