@@ -45,8 +45,9 @@ The Jupyter Notebook is structured sequentially into the following analytical se
    cd ecommerce-sales-eda
 3. **Install the required dependencies:**
    pip install pandas numpy matplotlib seaborn
-4. **Launch the Jupyter notebook**
+4. **Launch the Jupyter notebook:**
    jupyter notebook
    
 **🛠️ Author: Abrar Swapnil
+
 📬 Feel free to connect with me for data analysis and visualization collaborations!**
