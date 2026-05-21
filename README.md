@@ -1,5 +1,3 @@
-
-```markdown
 # 📊 E-Commerce Sales Performance & Customer Behavior EDA
 
 ## 📝 Project Overview
@@ -42,13 +40,13 @@ The Jupyter Notebook is structured sequentially into the following analytical se
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/abrar-swapnil/ecommerce-sales-eda.git
-2. Navigate the project directory:
+   git clone [https://github.com/abrar-swapnil/ecommerce-sales-eda.git](https://github.com/abrar-swapnil/ecommerce-sales-eda.git)
+2. **Navigate the Project directory:**
    cd ecommerce-sales-eda
-3. Install the required dependencies:
-  pip install pandas numpy matplotlib seaborn
-4. Launch jupyter notebook:
+3. **Install the required dependencies:**
+   pip install pandas numpy matplotlib seaborn
+4. **Launch the Jupyter notebook**
    jupyter notebook
-
-🛠️ Author: Abrar Swapnil
-📬 Feel free to connect with me for data analysis and visualization collaborations!
+   
+**🛠️ Author: Abrar Swapnil
+📬 Feel free to connect with me for data analysis and visualization collaborations!**
